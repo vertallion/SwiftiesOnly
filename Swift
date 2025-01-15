@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swiftie Zone</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background-color: #ffcccb;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .main-content {
+            padding: 20px;
+        }
+        .swiftie-image {
+            width: 200px;
+            height: auto;
+            margin: 20px 0;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #ececec;
+        }
+    </style>
+</head>
+<body>
+    <header>Orang sombong dilarang masuk</header>
+    <div class="main-content">
+        <h1>Welcome to the Swiftie Zone</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Taylor_Swift_2_-_2019_by_Glenn_Francis.jpg/640px-Taylor_Swift_2_-_2019_by_Glenn_Francis.jpg" alt="Taylor Swift" class="swiftie-image">
+        <p>This is a fan zone dedicated to Taylor Swift and all the amazing Swifties out there!</p>
+        <h2>Why We Love Taylor:</h2>
+        <ul>
+            <li>Her incredible music and lyrics</li>
+            <li>Her inspiring journey as an artist</li>
+            <li>Her kindness and connection to fans</li>
+        </ul>
+        <p>Feel free to explore and share the love for Taylor Swift!</p>
+    </div>
+    <footer>
+        Created with ❤️ for Swifties | © 2025
+    </footer>
+</body>
+</html>
+
